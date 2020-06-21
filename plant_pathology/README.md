@@ -16,7 +16,7 @@ EfficientNetB7
 </p>
 
 ## Hyper parameters
-learning_rate = 0.00009
-epochs =
-batch_size = 64
-training_unit = tpu(kaggle provides 8 tpu-V3 to train)
+- learning_rate = 0.00009
+- epochs =
+- batch_size = 64
+- training_unit = tpu(kaggle provides 8 tpu-V3 to train)
