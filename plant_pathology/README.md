@@ -17,6 +17,11 @@ EfficientNetB7
 
 ## Hyper parameters
 - learning_rate = 0.00009
-- epochs =
+- epochs = 50
 - batch_size = 64
 - training_unit = tpu(kaggle provides 8 tpu-V3 to train)
+- optimizer = adam
+- loss = categorical_cross_entropy
+
+## Results
+- Accuracy = 0.93152
